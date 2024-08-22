@@ -8,7 +8,7 @@
   background-color: var(--primary);
   padding: calc(var(--small-padding) * 1.25) var(--large-padding);
 
-  border-radius: var(--border-radius);
+  border-radius: 0px;
   cursor: pointer;
 
   box-sizing: border-box;
