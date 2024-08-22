@@ -39,10 +39,10 @@
   font-size: var(--large-font);
   top: calc(var(--small-padding) * -2);
 
-  background-color: var(--primary);
-  border-radius: var(--border-radius);
+  background-color: #edba00;
+  border-radius: 0px;
 
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .area.minimal .label {
