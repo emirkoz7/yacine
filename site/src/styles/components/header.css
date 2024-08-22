@@ -54,9 +54,10 @@
   padding: var(--small-padding);
   box-sizing: border-box;
 
-  border-radius: var(--border-radius);
+  border-radius: 0px;
   background-color: var(--dark);
-  border: var(--small-border) solid var(--lighter);
+  border: none;
+  font-weight: 800;
 }
 
 body.modal-active .header-container .header .links {
