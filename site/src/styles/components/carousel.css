@@ -42,7 +42,7 @@
   position: absolute;
   bottom: 3rem;
 
-  border-radius: var(--border-radius);
+  border-radius: 0px;
   padding: var(--small-padding);
 
   max-width: 80%;
@@ -53,6 +53,8 @@
 
   overflow: hidden;
   z-index: 2;
+  background: #141414;
+    font-weight: 700;
 }
 
 .carousel .vignette {
