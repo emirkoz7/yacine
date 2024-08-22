@@ -26,7 +26,7 @@ html {
 @media (prefers-color-scheme: dark) {
   html {
     --background: #141414;
-    --primary: #e12323;
+    --primary: #edba00;
     --light: #1a1a1a;
     --light-rgb: 26, 26, 28;
     --lighter: #232323;
