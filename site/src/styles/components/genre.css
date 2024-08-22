@@ -10,7 +10,7 @@
   background-color: var(--light);
   padding: calc(var(--small-padding) * 1.5) var(--large-padding);
 
-  border-radius: var(--border-radius);
+  border-radius: 0px;
   border: var(--small-border) solid var(--lighter);
 
   user-select: none;
@@ -24,6 +24,7 @@
   transition: var(--transition-speed) background-color;
 
   box-sizing: border-box;
+  font-weight: 700;
 }
 
 @media (hover: hover) {
