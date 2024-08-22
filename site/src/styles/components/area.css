@@ -6,7 +6,7 @@
 
   padding-top: calc(var(--large-padding) * 1.75);
 
-  border: var(--small-border) solid var(--lighter);
+  border: none;
   border-radius: var(--border-radius);
 
   box-sizing: border-box;
